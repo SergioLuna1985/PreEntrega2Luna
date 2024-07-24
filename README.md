@@ -29,3 +29,7 @@ Funciones esenciales del proceso a simular.
 
 <strong>Para tener en cuenta:</strong>
 La estructura hace referencia a el html y css, correspondiente al armado de la página general, pero que el JS que se evalúa, aún no está interactuando con ella.
+
+### Ejecución
+
+Hacer uso de la herramienta de desarrollo del navegador para visualizar la consola.
